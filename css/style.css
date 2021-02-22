@@ -15,7 +15,7 @@ main{
   margin-top: 25px;
   
 }
-header .details{
+.details{
   color: gray;
 }
 .author{
@@ -23,4 +23,34 @@ header .details{
 }
 .didascalia{
   font-size: smaller;
+}
+
+.elenco{
+  margin-left:auto;
+}
+th{
+  /* width: 100px; */
+  background-color: #20A9E5;
+}
+table{
+  width: 100%;
+  text-align: center;
+}
+table tr:nth-child(even){
+  background-color:#B1E5F2;
+}
+footer{
+  width: 75%;
+  margin: auto;
+}
+.ad{
+  position:relative;
+}
+.tl{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+  font-size: x-large;
+  font-weight: bolder;
 }
