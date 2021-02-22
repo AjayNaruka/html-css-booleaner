@@ -9,9 +9,18 @@ main{
   background-size: 50%
 }
 
-img{
+.banner img{
   height: 50px;
   margin-left: 12.5%;
   margin-top: 25px;
   
+}
+header .details{
+  color: gray;
+}
+.author{
+  color: #4EA0FF;
+}
+.didascalia{
+  font-size: smaller;
 }
