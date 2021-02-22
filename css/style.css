@@ -54,3 +54,6 @@ footer{
   font-size: x-large;
   font-weight: bolder;
 }
+ul{
+  padding-left: 15px;
+}
